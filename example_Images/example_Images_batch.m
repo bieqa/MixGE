@@ -1,0 +1,10 @@
+Data = {[pwd,'/example_Images_data.mat']};
+Image = 'Images';
+Mask = [pwd,'/mask.img'];
+Voxel = 1000;
+Genotype = 'Genotype';
+Characteristic = '';
+Weight = '';
+Covariate = 'Covariate';
+Environment = 'Environment';
+Output = pwd;
