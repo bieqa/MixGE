@@ -8,4 +8,5 @@ This MATLAB Toolbox provides a mixed effect model for gene-environment interacti
 This toolbox also provides examples for scalar brain measures and whole-brain measure (see readme.pdf).
 
 Reference: 
+
 Changqing Wang, Jianping Sun, Tian Ge, Derrek P. Hibar, Celia MT Greenwood, Anqi Qiu*, “A Mixed Effect Model for Genetic-Set and Environment Interaction and its Application to Tensor-Based Morphometry”, Frontier in Neuroscience: Brain Imaging Methods, 11:191, 2017. https://doi.org/10.3389/fnins.2017.00191
